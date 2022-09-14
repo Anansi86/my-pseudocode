@@ -49,3 +49,53 @@ the palms and the bottom the the fingers with soap.
 10) rotate both your hands underneath water stream until all soap has run off the hands and you see no more bubbles.
 
 11) place hand 10 in away from underneath hand dryer and rotate both of your hands underneath the air flow until both hands are dry.
+
+
+Objects
+1) Sink
+2) Faucet
+3) Soap dispenser
+4) hand dryer
+5) person
+6) leftHand
+7) rightHand
+8) Water
+9) Soap
+
+
+Function washHands
+
+When person is 1 ft distance away from sink place leftHand and rightHand under faucet
+
+person === 6ft distance to sink 
+
+    then place bothHands 3in away from faucet
+ 
+ when water comes out of faucet
+ 
+    then wet bothHands
+
+Right hand to soap dispenser wait till soap is despensed
+
+    then rub rightHand and leftHand until both hands are lathered soap = rightHand === leftHand
+
+With rightHand make sure any dirt or stains are rubbed off leftHand
+
+    then use leftHand to make sure any dirt or stains are rubbed off
+
+    Repeat last 2 lines <= 20sec
+
+    place bothHands under sink 
+
+when water comes out of faucet
+
+    then rinse bothHands i-- soap
+
+Place hands underneath dryer 
+
+    when dryer activates flip hands upside down and reverse
+
+Until hands are dry
+
+
+
